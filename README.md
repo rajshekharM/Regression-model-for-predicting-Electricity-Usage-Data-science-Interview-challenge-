@@ -1,4 +1,4 @@
-# Regression-model-for-predicting-Electricity-Usage-Data-science-Interview-challenge
+# Regression model for predicting Electricity-Usage-Data-science-Interview-challenge
 For Data Science enthusiasts:
 
 The Challenge :
